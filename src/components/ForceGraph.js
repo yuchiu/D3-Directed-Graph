@@ -1,5 +1,7 @@
 import React from 'react'
 import * as d3 from 'd3-3'
+import edgesData from '../data/edges_data'
+import nodesData from '../data/nodes_data'
 
 class ForceGraph extends React.Component {
   constructor(props) {
@@ -16,23 +18,12 @@ class ForceGraph extends React.Component {
   }
   createForceGraph() {
     const body = this.body
-    var width = 1000;
-    var height = 500;
+    const width = window.innerWidth;
+    const height = window.innerHeight;
 
-    var links = [
-      {
-        source: 'bar',
-        target: 'stack'
-      }, {
-        source: 'stack',
-        target: 'chart'
-      }, {
-        source: 'chart',
-        target: 'bar'
-      }
-    ]
+    const links = edgesData
     // create empty nodes array
-    var nodes = {};
+    let nodes = {};
 
     // compute nodes from links data
     links.forEach(function (link) {
@@ -45,14 +36,14 @@ class ForceGraph extends React.Component {
     });
 
     // add a SVG to the body for our viz
-    var svg = d3
+    let svg = d3
       .select(body)
       .append('svg')
       .attr('width', width)
       .attr('height', height);
 
     // use the force
-    var force = d3
+    let force = d3
       .layout
       .force() //build the layout
       .size([width, height]) //specified earlier
@@ -63,7 +54,7 @@ class ForceGraph extends React.Component {
       .start(); //kick the party off!
 
     // add the links
-    var link = svg
+    let link = svg
       .selectAll('.link')
       .data(links)
       .enter()
@@ -71,7 +62,7 @@ class ForceGraph extends React.Component {
       .attr('class', 'link');
 
     // add the nodes
-    var node = svg
+    let node = svg
       .selectAll('.node')
       .data(force.nodes()) //add
       .enter()
@@ -106,7 +97,7 @@ class ForceGraph extends React.Component {
     }
   }
   render() {
-    return <svg ref={body => this.body = body}  width={1000} height={500}></svg>
+    return <svg ref={body => this.body = body}  width={'100%'} height={900}></svg>
   }
 }
 
