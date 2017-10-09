@@ -1,6 +1,7 @@
-var webpack = require('webpack');
-var path = require('path');
-var htmlWebpackPlugin = require('html-webpack-plugin');
+var webpack = require('webpack')
+var path = require('path')
+var htmlWebpackPlugin = require('html-webpack-plugin')
+var OpenBrowserPlugin = require('open-browser-webpack-plugin')
 
 module.exports = {
   entry: {
@@ -43,6 +44,9 @@ module.exports = {
     hot : true,
     stats: 'errors-only'
   },
+  node: {
+    fs: "empty"
+  },
 
 
 
@@ -69,6 +73,9 @@ module.exports = {
       hash: true
     }),
     new webpack.HotModuleReplacementPlugin(),
+    new OpenBrowserPlugin({
+      url: 'http://localhost:8080'
+    })
   ]
 
 }
