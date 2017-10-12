@@ -1,10 +1,10 @@
 
 ### demo:
 
-#### view live on [link](https://venues-finder.surge.sh)
+#### view live on [link](d3-forcegraph.surge.sh)
 
 
-![demo](https://github.com/yuchiu/React-Redux-Venues-Finder/blob/master/demo.gif)
+![demo](https://github.com/yuchiu/D3-Directed-Graph/blob/master/demo.gif)
 
 ****************************************
 
@@ -68,5 +68,5 @@ each approach has its tradeoff, and I chose approach #3 for a several reasons:
 #### 2. Raw Data Conversion
 Before drawing the graph, I used a xlsx conline converter to compile data into Javascript Object. This is the fastest without the necessity to go through lines of documentation for third party libraries.
 
-#### 3. Draw the Graph
+#### 3. Drawing the Graph
 I used [Joerg Baach’s Graph with labeled edges](http://bl.ocks.org/jhb/5955887) as boiler plate for integrating data, since there are several useful features such as auto rotating arrows that point from source to target. ID is shown on top of each node, and label/name will be shown on mousedown/click event.
