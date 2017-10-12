@@ -1,5 +1,5 @@
 
-### demo:
+### demo
 
 #### view live on [link](d3-forcegraph.surge.sh)
 
@@ -10,7 +10,7 @@
 
 ### Usage 
 
-#### 0. Make sure npm is installed
+#### Make sure npm is installed
 
 [npm download link](https://www.npmjs.com/get-npm?utm_source=house&utm_medium=homepage&utm_campaign=free%20orgs&utm_term=Install%20npm)
 
@@ -64,7 +64,7 @@ each approach has its tradeoff, and I chose approach #3 for a several reasons:
 - 3. Clear seperation between React and D3, more maintainable
 
 #### 2. Raw Data Conversion
-Before drawing the graph, I used a xlsx conline converter to compile data into Javascript Object. This is the fastest without the necessity to go through lines of documentation for third party libraries.
+Before drawing the graph, I used a xlsx online converter to compile data into Javascript Object. This is the fastest without the necessity to go through lines of documentation for third party libraries.
 
 #### 3. Drawing the Graph
 I used [Joerg Baach’s Graph with labeled edges](http://bl.ocks.org/jhb/5955887) as boiler plate for integrating data, since there are several useful features such as auto rotating arrows that point from source to target. ID is shown on top of each node, and label/name will be shown on mousedown/click event.
