@@ -1,577 +1,577 @@
 export default[
 	{
-		source: "1",
-		target: "36",
+		source: 1,
+		target: 36,
 		type: "Directed",
 		label: "AP"
 	},
 	{
-		source: "1",
-		target: "50",
+		source: 1,
+		target: 48,
 		type: "Directed",
 		label: "AP"
 	},
 	{
-		source: "1",
-		target: "47",
+		source: 1,
+		target: 47,
 		type: "Directed",
 		label: "AP"
 	},
 	{
-		source: "2",
-		target: "36",
+		source: 2,
+		target: 36,
 		type: "Directed",
 		label: "AP"
 	},
 	{
-		source: "2",
-		target: "14",
+		source: 2,
+		target: 14,
 		type: "Directed",
 		label: "AP"
 	},
 	{
-		source: "2",
-		target: "30",
+		source: 2,
+		target: 30,
 		type: "Directed",
 		label: "AP"
 	},
 	{
-		source: "2",
-		target: "31",
+		source: 2,
+		target: 31,
 		type: "Directed",
 		label: "AP"
 	},
 	{
-		source: "2",
-		target: "32",
+		source: 2,
+		target: 32,
 		type: "Directed",
 		label: "AP"
 	},
 	{
-		source: "3",
-		target: "36",
+		source: 3,
+		target: 36,
 		type: "Directed",
 		label: "AP"
 	},
 	{
-		source: "4",
-		target: "50",
+		source: 4,
+		target: 48,
 		type: "Directed",
 		label: "AP"
 	},
 	{
-		source: "4",
-		target: "25",
+		source: 4,
+		target: 25,
 		type: "Directed",
 		label: "AP"
 	},
 	{
-		source: "7",
-		target: "31",
+		source: 7,
+		target: 31,
 		type: "Directed",
 		label: "AP"
 	},
 	{
-		source: "9",
-		target: "25",
+		source: 9,
+		target: 25,
 		type: "Directed",
 		label: "AP"
 	},
 	{
-		source: "9",
-		target: "14",
+		source: 9,
+		target: 14,
 		type: "Directed",
 		label: "AP"
 	},
 	{
-		source: "9",
-		target: "30",
+		source: 9,
+		target: 30,
 		type: "Directed",
 		label: "AP"
 	},
 	{
-		source: "10",
-		target: "50",
+		source: 10,
+		target: 48,
 		type: "Directed",
 		label: "AP"
 	},
 	{
-		source: "10",
-		target: "25",
+		source: 10,
+		target: 25,
 		type: "Directed",
 		label: "AP"
 	},
 	{
-		source: "11",
-		target: "25",
+		source: 11,
+		target: 25,
 		type: "Directed",
 		label: "AP"
 	},
 	{
-		source: "11",
-		target: "30",
+		source: 11,
+		target: 30,
 		type: "Directed",
 		label: "AP"
 	},
 	{
-		source: "11",
-		target: "36",
+		source: 11,
+		target: 36,
 		type: "Directed",
 		label: "AP"
 	},
 	{
-		source: "12",
-		target: "7",
+		source: 12,
+		target: 7,
 		type: "Directed",
 		label: "AP"
 	},
 	{
-		source: "12",
-		target: "9",
+		source: 12,
+		target: 9,
 		type: "Directed",
 		label: "AP"
 	},
 	{
-		source: "11",
-		target: "19",
+		source: 11,
+		target: 19,
 		type: "Directed",
 		label: "AP"
 	},
 	{
-		source: "13",
-		target: "19",
+		source: 13,
+		target: 19,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "13",
-		target: "14",
+		source: 13,
+		target: 14,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "13",
-		target: "30",
+		source: 13,
+		target: 30,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "13",
-		target: "25",
+		source: 13,
+		target: 25,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "14",
-		target: "25",
+		source: 14,
+		target: 25,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "15",
-		target: "25",
+		source: 15,
+		target: 25,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "16",
-		target: "14",
+		source: 16,
+		target: 14,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "16",
-		target: "25",
+		source: 16,
+		target: 25,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "17",
-		target: "23",
+		source: 17,
+		target: 23,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "18",
-		target: "25",
+		source: 18,
+		target: 25,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "18",
-		target: "30",
+		source: 18,
+		target: 30,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "19",
-		target: "30",
+		source: 19,
+		target: 30,
 		type: "Directed",
 		label: "AP"
 	},
 	{
-		source: "19",
-		target: "25",
+		source: 19,
+		target: 25,
 		type: "Directed",
 		label: "AP"
 	},
 	{
-		source: "20",
-		target: "19",
+		source: 20,
+		target: 19,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "20",
-		target: "25",
+		source: 20,
+		target: 25,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "20",
-		target: "30",
+		source: 20,
+		target: 30,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "20",
-		target: "27",
+		source: 20,
+		target: 27,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "20",
-		target: "28",
+		source: 20,
+		target: 28,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "21",
-		target: "25",
+		source: 21,
+		target: 25,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "22",
-		target: "25",
+		source: 22,
+		target: 25,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "23",
-		target: "25",
+		source: 23,
+		target: 25,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "25",
-		target: "50",
+		source: 25,
+		target: 48,
 		type: "Directed",
 		label: "Subject"
 	},
 	{
-		source: "25",
-		target: "47",
+		source: 25,
+		target: 47,
 		type: "Directed",
 		label: "Subject"
 	},
 	{
-		source: "26",
-		target: "11",
+		source: 26,
+		target: 11,
 		type: "Directed",
 		label: "Subject"
 	},
 	{
-		source: "27",
-		target: "25",
+		source: 27,
+		target: 25,
 		type: "Directed",
 		label: "Subject"
 	},
 	{
-		source: "27",
-		target: "30",
+		source: 27,
+		target: 30,
 		type: "Directed",
 		label: "Subject"
 	},
 	{
-		source: "27",
-		target: "19",
+		source: 27,
+		target: 19,
 		type: "Directed",
 		label: "Subject"
 	},
 	{
-		source: "28",
-		target: "36",
+		source: 28,
+		target: 36,
 		type: "Directed",
 		label: "Subject"
 	},
 	{
-		source: "30",
-		target: "25",
+		source: 30,
+		target: 25,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "31",
-		target: "25",
+		source: 31,
+		target: 25,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "33",
-		target: "25",
+		source: 33,
+		target: 25,
 		type: "Directed",
 		label: "Subject"
 	},
 	{
-		source: "33",
-		target: "30",
+		source: 33,
+		target: 30,
 		type: "Directed",
 		label: "Subject"
 	},
 	{
-		source: "33",
-		target: "19",
+		source: 33,
+		target: 19,
 		type: "Directed",
 		label: "Subject"
 	},
 	{
-		source: "33",
-		target: "9",
+		source: 33,
+		target: 9,
 		type: "Directed",
 		label: "Subject"
 	},
 	{
-		source: "34",
-		target: "19",
+		source: 34,
+		target: 19,
 		type: "Directed",
 		label: "Subject"
 	},
 	{
-		source: "34",
-		target: "30",
+		source: 34,
+		target: 30,
 		type: "Directed",
 		label: "Subject"
 	},
 	{
-		source: "35",
-		target: "50",
+		source: 35,
+		target: 48,
 		type: "Directed",
 		label: "AP"
 	},
 	{
-		source: "36",
-		target: "50",
+		source: 36,
+		target: 48,
 		type: "Directed",
 		label: "AP"
 	},
 	{
-		source: "36",
-		target: "47",
+		source: 36,
+		target: 47,
 		type: "Directed",
 		label: "AP"
 	},
 	{
-		source: "37",
-		target: "50",
+		source: 37,
+		target: 48,
 		type: "Directed",
 		label: "AP"
 	},
 	{
-		source: "37",
-		target: "47",
+		source: 37,
+		target: 47,
 		type: "Directed",
 		label: "AP"
 	},
 	{
-		source: "37",
-		target: "25",
+		source: 37,
+		target: 25,
 		type: "Directed",
 		label: "AP"
 	},
 	{
-		source: "39",
-		target: "19",
+		source: 39,
+		target: 19,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "39",
-		target: "14",
+		source: 39,
+		target: 14,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "39",
-		target: "30",
+		source: 39,
+		target: 30,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "39",
-		target: "25",
+		source: 39,
+		target: 25,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "13",
-		target: "39",
+		source: 13,
+		target: 39,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "13",
-		target: "40",
+		source: 13,
+		target: 40,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "40",
-		target: "19",
+		source: 40,
+		target: 19,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "40",
-		target: "14",
+		source: 40,
+		target: 14,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "40",
-		target: "30",
+		source: 40,
+		target: 30,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "40",
-		target: "25",
+		source: 40,
+		target: 25,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "20",
-		target: "42",
+		source: 20,
+		target: 42,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "42",
-		target: "19",
+		source: 42,
+		target: 19,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "42",
-		target: "25",
+		source: 42,
+		target: 25,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "42",
-		target: "30",
+		source: 42,
+		target: 30,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "42",
-		target: "27",
+		source: 42,
+		target: 27,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "42",
-		target: "28",
+		source: 42,
+		target: 28,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "43",
-		target: "25",
+		source: 43,
+		target: 25,
 		type: "Directed",
 		label: "Subject"
 	},
 	{
-		source: "43",
-		target: "30",
+		source: 43,
+		target: 30,
 		type: "Directed",
 		label: "Subject"
 	},
 	{
-		source: "43",
-		target: "19",
+		source: 43,
+		target: 19,
 		type: "Directed",
 		label: "Subject"
 	},
 	{
-		source: "43",
-		target: "36",
+		source: 43,
+		target: 36,
 		type: "Directed",
 		label: "Subject"
 	},
 	{
-		source: "27",
-		target: "43",
+		source: 27,
+		target: 43,
 		type: "Directed",
 		label: "Subject"
 	},
 	{
-		source: "18",
-		target: "41",
+		source: 18,
+		target: 41,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "41",
-		target: "25",
+		source: 41,
+		target: 25,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "41",
-		target: "30",
+		source: 41,
+		target: 30,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "44",
-		target: "19",
+		source: 44,
+		target: 19,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "45",
-		target: "14",
+		source: 45,
+		target: 14,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "45",
-		target: "30",
+		source: 45,
+		target: 30,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "45",
-		target: "31",
+		source: 45,
+		target: 31,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "45",
-		target: "36",
+		source: 45,
+		target: 36,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "45",
-		target: "37",
+		source: 45,
+		target: 37,
 		type: "Directed",
 		label: "Input"
 	},
 	{
-		source: "47",
-		target: "50",
+		source: 47,
+		target: 48,
 		type: "Directed",
 		label: "Subject"
 	}

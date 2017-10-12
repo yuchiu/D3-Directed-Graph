@@ -1,19 +1,12 @@
 @import 'var';
 @import 'mixins';
 #title {
-    padding: 30px;
-    font-size: 50px;
+    padding: 0px;
+    font-size: 30px;
     color: $deepblue;
     text-align: center;
 }
-.node{
-    fill: #888888;
-    stroke: #fff;
-    stroke-width:1px;
-    font-size: .6em;
-}
 
-.link{
-    stroke: #cccccc;
-    stroke-opacity: .6;
+.nodelabel {
+    stroke: black
 }
