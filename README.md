@@ -12,10 +12,8 @@
 
 #### 0. Make sure npm is installed
 
-```
 [npm download link](https://www.npmjs.com/get-npm?utm_source=house&utm_medium=homepage&utm_campaign=free%20orgs&utm_term=Install%20npm)
 
-```
 
 #### 1. First install package cross-env globally
 
