@@ -67,4 +67,4 @@ each approach has its tradeoff, and I chose approach #3 for a several reasons:
 Before drawing the graph, I used a xlsx online converter to compile data into Javascript Object. This is the fastest without the necessity to go through lines of documentation for third party libraries.
 
 #### 3. Drawing the Graph
-I used [Joerg Baach’s Graph with labeled edges](http://bl.ocks.org/jhb/5955887) as boiler plate for integrating data, since there are several useful features such as auto rotating arrows that point from source to target. ID is shown on top of each node, and label/name will be shown on mousedown/click event.
+I used [Joerg Baach’s Graph with labeled edges](http://bl.ocks.org/jhb/5955887) as boiler plate for integrating data, since there are several useful features such as force gravity, auto rotating arrows that point from source to target. ID is shown on top of each node, and label/name will be shown on mousedown/click event.
