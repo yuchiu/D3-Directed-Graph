@@ -1,7 +1,7 @@
 
 ### demo
 
-#### view live on [link](d3-forcegraph.surge.sh)
+#### view live on [link](https://d3-forcegraph.surge.sh)
 
 
 ![demo](https://github.com/yuchiu/D3-Directed-Graph/blob/master/demo.gif)
